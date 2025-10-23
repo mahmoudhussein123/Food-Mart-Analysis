@@ -67,24 +67,25 @@ Focused on:
 
 ---
 
-## 📁 Repository Structure  
+## 📁 Repository Structure
 📂 Food-Mart-Analysis
 │
 ├── 📊 Dashboards/
-│ ├── Main_Figures_Dashboard.png
-│ ├── Product_Insights_Dashboard.png
-│ ├── Customer_Insights_Dashboard.png
+│   ├── Main_Figures_Dashboard.png
+│   ├── Product_Insights_Dashboard.png
+│   ├── Customer_Insights_Dashboard.png
 │
 ├── 📁 Data/
-│ ├── products.xlsx
-│ ├── sales.xlsx
-│ ├── regions.xlsx
-│ ├── stores.xlsx
-│ ├── customers.xlsx
-│ ├── returns.xlsx
+│   ├── products.xlsx
+│   ├── sales.xlsx
+│   ├── regions.xlsx
+│   ├── stores.xlsx
+│   ├── customers.xlsx
+│   ├── returns.xlsx
 │
 ├── 📄 FoodMart_Report.pbix
 ├── 📄 README.md
+
 
 ---
 

@@ -1,4 +1,4 @@
-# 🛒 Food Mart Power BI Project  
+# 🛒 Food Mart Data Analysis Project  
 
 ## 📊 Overview  
 This project analyzes sales and customer data for **Food Mart**, a retail store chain, to uncover valuable insights and performance trends.  
@@ -39,7 +39,7 @@ Developed **DAX measures** to calculate key metrics for analysis, including:
 - Year-over-Year (YoY) Growth  
 
 ### 4️⃣ Dashboards Design  
-Built **three interactive dashboards** in Power BI:  
+Built **three interactive dashboards** in Excel:  
 
 #### 📌 Main Figure Dashboard  
 Overview of KPIs and company performance.  
@@ -73,8 +73,7 @@ Focused on:
 
 ---
 
-## 🚀 Tools Used  
-- **Power BI**  
+## 🚀 Tools Used    
 - **Power Query**  
 - **Power Pivot (Data Modeling)**  
 - **Excel**  
